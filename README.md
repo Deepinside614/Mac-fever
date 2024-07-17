@@ -24,5 +24,5 @@ The author is not responsible for any damage caused by the misuse of this script
 
 ## Adjustments
 
-- in line 6 'for i in range(10000):' modify the number to generate the number of characters needed in a single line of the file.
-- in line 3 'def write_file(file_name, line_length=1000):' modify the line length to generate number of lines needed.
+- in line 6 `for i in range(10000):` modify the number to generate the number of characters needed in a single line of the file.
+- in line 3 `def write_file(file_name, line_length=1000):` modify the line length to generate number of lines needed.
