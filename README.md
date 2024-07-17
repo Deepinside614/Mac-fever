@@ -19,18 +19,10 @@ The author is not responsible for any damage caused by the misuse of this script
 
 ## Usage
 
-- `write_large_file`: Generates a large file with random binary data.
+- `write_large_file`: Generates a file with random binary data.
 - `multiply`: Copies the generated file multiple times.
 
+## Adjustments
 
-### Example
-
-```python
-def main():
-    file = "/path/to/your/file.txt"
-    new_dir = "/path/to/destination/directory"
-    
-    write_large_file(file)
-    
-    number_of_copies = 10  # Adjust this to a safe number
-    multiply(file, new_dir, number_of_copies)
+- in line 6 'for i in range(10000):' modify the number to generate the number of characters needed in a single line of the file.
+- in line 3 'def write_file(file_name, line_length=1000):' modify the line length to generate number of lines needed.
