@@ -18,7 +18,7 @@ def main():
     newfile = "/users/USERNAME/desktop/test"
     # set the 'USERNAME' above to whatever the user you are logged in on for mac
     write_file(file)
-    multiply(file, newfile, 100000000000000000000000000000000) # set limit to 10 for safety and it will crash the mac if this code is run without setting limit to 10 
+    multiply(file, newfile, 100000000000000000000000000000000) 
 
 if __name__ == "__main__":
     main()
