@@ -13,7 +13,7 @@ The script generates a large file and copies it multiple times. This can lead to
 
 ### Example
 
-```python
+'''python
 def main():
     file = "/path/to/your/file.txt"
     new_dir = "/path/to/destination/directory"
@@ -21,7 +21,7 @@ def main():
     write_large_file(file)
     
     number_of_copies = 10  # Adjust this to a safe number
-    multiply(file, new_dir, number_of_copies)
+    multiply(file, new_dir, number_of_copies)'''
 
 ## Warning
 
