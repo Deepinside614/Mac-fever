@@ -11,7 +11,7 @@ The script generates a large file and copies it multiple times. This can lead to
 **Important Notice**: 
 
 - **For Research Purposes Only**: This script is intended solely for educational and research purposes to illustrate how a denial of service (DoS) attack can occur by consuming disk space.
-- **Use with Caution**: Running this script can quickly fill up disk space, slow down your system, and potentially cause system crashes or data loss.
+- **Use with Caution**: Running this script can causes system crashes or data loss and hence run this in virtual machine or set limit in the code to 10 see below for more details.
 - **Controlled Environment**: Always run this script in a controlled environment, such as a virtual machine or an isolated testing system, to avoid any unintended damage.
 - **Legal and Ethical Responsibility**: Misuse of this script can be illegal and unethical. Do not use this script to harm or disrupt any systems without explicit permission.
 
