@@ -4,7 +4,7 @@ This repository contains a Python script designed to demonstrate a denial of ser
 
 ## Description
 
-The script generates a file and it multiplies rapidly at the desktop folder of macOS. This can lead to rapid disk space consumption and cause system instability permanently requiring users to reinstall the whole macOS.
+The script generates a file and it multiplies rapidly at the desktop folder of macOS. This can lead to rapid disk space consumption and cause system instability permanently requiring users to reinstall the whole macOS. This code does not prompt system to ask permission for access into folders for generating and multiplying the file.
 
 ## Warning
 
