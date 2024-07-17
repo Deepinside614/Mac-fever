@@ -11,7 +11,7 @@ The script generates a file and it multiplies rapidly at the desktop folder of m
 **Important Notice**: 
 
 - **For Research Purposes Only**: This script is intended solely for educational and research purposes to illustrate how a denial of service (DoS) attack can occur by consuming disk space.
-- **Use with Caution**: Running this script can causes system crashes or data loss and hence run this in virtual machine or set limit in the code to 10 see below for more details.
+- **Use with Caution**: Running this script can causes system crashes or data loss and hence run this in virtual machine.
 - **Controlled Environment**: Always run this script in a controlled environment, such as a virtual machine or an isolated testing system, to avoid any unintended damage.
 - **Legal and Ethical Responsibility**: Misuse of this script can be illegal and unethical. Do not use this script to harm or disrupt any systems without explicit permission.
 
